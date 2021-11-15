@@ -1,5 +1,4 @@
 # rnn-covid19
-
 Aplikasi ini merupakan proses peramalan data dengan Recurrent Neural Network (RNN) pada data Covid19 di Indonesia
 
 ## Jenis data
